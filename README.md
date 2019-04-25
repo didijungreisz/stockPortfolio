@@ -8,7 +8,7 @@ stock market and their stock portfolio value
 ## configuration:
 1. run the script files  from `\stockPortfolio\src\main\resources` on your MySQL
 - put the "stocks_history_file.csv" on your MySQL "uploads" directory on
-`C:\ProgramData\MySQL\MySQL Server 8.0\Uploads`
+`C:\ProgramData\MySQL\MySQL Server 8.0\Data\stock_portfolio`
 -"ProgramData" should be hidden (show hidden items to find it)
 2. import the project as Maven project to your IDE 
 3. right click on the project -> run as -> run on server
